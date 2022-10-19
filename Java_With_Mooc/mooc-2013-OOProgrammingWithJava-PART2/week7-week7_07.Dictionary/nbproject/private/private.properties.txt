@@ -1,0 +1,1 @@
+user.properties.file=C:\\Users\\Where\\AppData\\Roaming\\tmcbeans\\12.0\\build.properties
